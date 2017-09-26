@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RINGTONES</key>
+	<dict>
+		<key>Opening(Default)</key>
+		<string>Opening(Default).mp3</string>
+		<key>Apex</key>
+		<string>Apex.mp3</string>
+		<key>Beacon</key>
+		<string>Beacon.mp3</string>
+		<key>Bulletin</key>
+		<string>Bulletin.mp3</string>
+		<key>By The Seaside</key>
+		<string>By The Seaside.mp3</string>
+		<key>Chimes</key>
+		<string>Chimes.mp3</string>
+		<key>Circuit</key>
+		<string>Circuit.mp3</string>
+		<key>Constellation</key>
+		<string>Constellation.mp3</string>
+		<key>Cosmic</key>
+		<string>Cosmic.mp3</string>
+		<key>Crystals</key>
+		<string>Crystals.mp3</string>
+		<key>Hillside</key>
+		<string>Hillside.mp3</string>
+		<key>Illuminate</key>
+		<string>Illuminate.mp3</string>
+		<key>Night Owl</key>
+		<string>Night Owl.mp3</string>
+		<key>Playtime</key>
+		<string>Playtime.mp3</string>
+		<key>Presto</key>
+		<string>Presto.mp3</string>
+		<key>Radar</key>
+		<string>Radar.mp3</string>
+		<key>Radiate</key>
+		<string>Radiate.mp3</string>
+		<key>Ripples</key>
+		<string>Ripples.mp3</string>
+		<key>Sencha</key>
+		<string>Sencha.mp3</string>
+		<key>Signal</key>
+		<string>Signal.mp3</string>
+		<key>Silk</key>
+		<string>Silk.mp3</string>
+		<key>Slow Rise</key>
+		<string>Slow Rise.mp3</string>
+		<key>Stargaze</key>
+		<string>Stargaze.mp3</string>
+		<key>Summit</key>
+		<string>Summit.mp3</string>
+		<key>Twinkle</key>
+		<string>Twinkle.mp3</string>
+		<key>Uplift</key>
+		<string>Uplift.mp3</string>
+		<key>Waves</key>
+		<string>Waves.mp3</string>
+		<key>Classic</key>
+		<dict>
+			<key>Alarm</key>
+			<string>Alarm.mp3</string>
+			<key>Ascending</key>
+			<string>Ascending.mp3</string>
+			<key>Bark</key>
+			<string>Bark.mp3</string>
+			<key>Bell Tower</key>
+			<string>Bell Tower.mp3</string>
+			<key>Blues</key>
+			<string>Blues.mp3</string>
+			<key>Boing</key>
+			<string>Boing.mp3</string>
+			<key>Crickets</key>
+			<string>Crickets.mp3</string>
+			<key>Digital</key>
+			<string>Digital.mp3</string>
+			<key>Doorbell</key>
+			<string>Doorbell.mp3</string>
+			<key>Duck</key>
+			<string>Duck.mp3</string>
+			<key>Harp</key>
+			<string>Harp.mp3</string>
+			<key>Marimba</key>
+			<string>Marimba.mp3</string>
+			<key>Motorcycle</key>
+			<string>Motorcycle.mp3</string>
+			<key>Old Car Horn</key>
+			<string>Old Car Horn.mp3</string>
+			<key>Old Phone</key>
+			<string>Old Phone.mp3</string>
+			<key>Piano Riff</key>
+			<string>Piano Riff.mp3</string>
+			<key>Pinball</key>
+			<string>Pinball.mp3</string>
+			<key>Robot</key>
+			<string>Robot.mp3</string>
+			<key>Sci-Fi</key>
+			<string>Sci-Fi.mp3</string>
+			<key>Sonar</key>
+			<string>Sonar.mp3</string>
+			<key>Strum</key>
+			<string>Strum.mp3</string>
+			<key>Timba</key>
+			<string>Timba.mp3</string>
+			<key>Time Passing</key>
+			<string>Time Passing.mp3</string>
+			<key>Trill</key>
+			<string>Trill.mp3</string>
+			<key>Xylophone</key>
+			<string>Xylophone.mp3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
